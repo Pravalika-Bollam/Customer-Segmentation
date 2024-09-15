@@ -22,8 +22,15 @@
    - Find all the emails of all users who received ad copy 2 in their campaign.
    - Find the emails for all users who received both a campaign and a test. These users will have non-empty entries in the campaign and test columns. 
    
-   
-   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/RPA-Customer.sql)
+<a href="https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/RPA-Customer.sql">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="32" height="32" alt="SQL Icon" />
+  View SQL Script for Customer Segmentation
+</a>
+
+
+
+
+
    
 <br><br><br>   
 
@@ -46,7 +53,12 @@
    - CoolTShirts can re-invest in 5 campaigns. Given your findings in the project, which should they pick and why? 
    
    
-   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Marketing%20Click%20Through%20Rate%20Analytics.sql)
+<a href="https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Marketing%20Click%20Through%20Rate%20Analytics.sql">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="32" height="32" alt="SQL Icon" />
+  View SQL Script for Marketing Click-Through Rate Analytics
+</a>
+
+
 
 <br><br><br>
 
@@ -65,7 +77,12 @@
    - What was the total population of each continent in 2010? 
    
    
-   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Population_queries.sql)
+  <a href="https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Population_queries.sql">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="32" height="32" alt="SQL Icon" />
+  View SQL Script for Population Queries
+</a>
+
+
 
 
 <br><br><br>
@@ -86,8 +103,14 @@
       - What are the most competitive markets?
    - Let's see if there's a difference in startups sizes among different locations:
       - What is the average size of a startup in each location, with average sizes above 500? 
-      
-   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Startups.sql)
+
+     <br>    
+<a href="https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Startups.sql">
+  <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  View SQL Script for Startups
+</a>
+
+
    
 <br><br><br>   
 
@@ -107,8 +130,15 @@
      For example, any IP address beginning with ‘10.’ is reserved for internal use.
    - Users are making fraudulent transactions using a temporary email address service. These services provide a short-lived email that can be verified and then self-destructs.
    - The finance department is looking for a specific transaction. They know that the transaction occurred from an ip address starting with ‘120.’ and their full name starts with ‘John’. 
-   
-   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/RPA_FRAUD_DETECTION.sql)
+
+   <br>
+
+<a href="https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/RPA_FRAUD_DETECTION.sql">
+  <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  View SQL Script for RPA Fraud Detection
+</a>
+
+
 
 <br><br><br>
 
@@ -130,4 +160,8 @@
    
    
    
-   **Click Here** [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Davie's%20Burgers%20Subway%20Ad.sql)
+<a href="https://github.com/Pravalika-Bollam/Customer-Segmentation/blob/main/Davie's%20Burgers%20Subway%20Ad.sql">
+  <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  View SQL Script for Davie's Burgers Subway Ad
+</a>
+
